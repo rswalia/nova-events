@@ -2135,6 +2135,7 @@ section {
 
 .footer .footer-content .footer-info p {
   font-size: 15px;
+  font-weight: 500;
   margin-bottom: 0;
   font-family: var(--font-primary);
   color: var(--color-secondary);
